@@ -1,0 +1,12 @@
+joblib
+numpy
+catboost
+flask
+twilio
+nltk
+scikit-learn
+gunicorn
+
+
+
+
